@@ -1,2 +1,2 @@
-# CG
-Introduction of computer graphic
+# MATLAB
+MATLAB in 2017 spring
